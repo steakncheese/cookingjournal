@@ -1,7 +1,7 @@
 # cookingjournal
-This is the journal with amazing recipes you can never forget!!
+This is the journal with amazing steak and cheese recipes you can never forget!!
 
-Steak is my favorite
+Steak is my favorite!
 
 ---
 
